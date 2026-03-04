@@ -4,7 +4,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "start": "bun run ."
+    "start": "bun run .",
+    "build": "bun run build.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
@@ -13,7 +14,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "objcjs-types": "^0.5.3"
+    "objcjs-types": "^0.7.0"
   },
   "trustedDependencies": [
     "objc-js"
