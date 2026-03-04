@@ -1,0 +1,21 @@
+{
+  "name": "objcjs-app",
+  "module": "src/index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun run ."
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "objcjs-types": "^0.5.3"
+  },
+  "trustedDependencies": [
+    "objc-js"
+  ]
+}
