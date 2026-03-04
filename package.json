@@ -1,5 +1,5 @@
 {
-  "name": "objcjs-app",
+  "name": "boilerplate-objcjs-app",
   "module": "src/index.ts",
   "type": "module",
   "private": true,

@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "objcjs-app",
+      "name": "boilerplate-objcjs-app",
       "dependencies": {
         "objcjs-types": "^0.7.0",
       },
